@@ -9,6 +9,7 @@ My first github project
 ### Description
 This project analyses a bikeshare database from three different cities (Chicago, New York, Washington)
 Some months are not available
+Gender data not available for Washington
 
 ### Files used
 bikeshare.py
