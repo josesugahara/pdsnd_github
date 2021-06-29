@@ -7,7 +7,7 @@
 My first github project
 
 ### Description
-Describe what your project is about and what it does
+This project analyses a bikeshare database from three different cities (Chicago, New York, Washington)
 
 ### Files used
 Include the files used
